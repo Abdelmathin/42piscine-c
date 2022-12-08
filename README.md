@@ -9,3 +9,7 @@ You don’t have to know how to code to apply to the Piscine at 42. Whatever you
 # Abdelmathin Habachi (ranked third)
 
 ![Maximum level](ScreenShot.png)
+
+# Profile (on intra.42.fr)
+
+![Profile](https://profile.intra.42.fr/users/ahabachi)
