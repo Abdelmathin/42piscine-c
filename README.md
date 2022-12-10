@@ -13,5 +13,5 @@ You don’t have to know how to code to apply to the Piscine at 42. Whatever you
 # Contents
 * C Piscine C02
 
-[I'm an inline-style link](https://www.google.com)
+[Exercise 00](https://www.google.com)
 
