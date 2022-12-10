@@ -1,9 +1,9 @@
-# Exercice 08:
+# Exercise 08:
 	• Turn-in directory : ex08/
 	• Files to turn in  : ft_print_combn.c
 	• Allowed functions : write
-# Subject:
-	• Create a function that displays all different combinations of n numbers by ascending order.
+# Subject :
+	• Create a function that displays all different combinations of n numbers
 	• n will be so that : 0 < n < 10.
 	• If n = 2, here’s the expected output :
 		$>./a.out | cat -e

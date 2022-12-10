@@ -1,0 +1,9 @@
+# Exercice 02:
+	• Turn-in directory : ex02/
+	• Files to turn in  : ft_swap.c
+	• Allowed functions : None
+# Subject:
+	• Create a function that swaps the value of two integers whose addresses are
+		entered as parameters.
+	• Here’s how it should be prototyped :
+		void ft_swap(int *a, int *b)
