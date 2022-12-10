@@ -7,3 +7,14 @@
 		starting from the letter ’a’.
 	• Here’s how it should be prototyped :
 		void ft_print_alphabet(void);
+
+# التمرين 01:
+*	 مجلد التسليم $~~~~~~~~~~~~~~~~~~$: /ex01
+*	 الملفات المطلوب تسليمها $~$ : ft_print_alphabet.c
+*	 الدوال المسموح بها $~~~~~~~~$ : write
+# الموضوع:
+*	قم بإنشاء دالة تعرض الأبجدية الإنجليزية بأحرف صغيرة ، على سطر واحد ، بترتيب تصاعدي ،
+بدءًا من الحرف "a"..
+*	 قم بتصميم النموذج الأولي على النحو التالي:
+*
+		void ft_print_alphabet(char c)
