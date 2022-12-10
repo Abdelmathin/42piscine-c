@@ -12,6 +12,8 @@ You don’t have to know how to code to apply to the Piscine at 42. Whatever you
 
 # Contents
 
+* Day 00
+
 $~~~~~~~~$[C Piscine C00 Exercise 00 : ft_putchar](https://github.com/Abdelmathin/42piscine-c/tree/main/C00/ex00)
 
 $~~~~~~~~$[C Piscine C00 Exercise 01 : ft_print_alphabet](https://github.com/Abdelmathin/42piscine-c/tree/main/C00/ex01)
