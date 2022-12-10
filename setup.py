@@ -1,3 +1,4 @@
+# Created By: Abdelmathin Habachi
 _INFO = {
 	"MAIL": "abdelmathinhabachi@gmail.com",
 	"README": """
@@ -147,12 +148,42 @@ def generate_readme_exercise(filename, unused):
 		fp.write(readme_content)
 	return (0);
 
+def original_files_callback(filename, files):
+	while ("//" in filename):
+		filename = filename.replace("//", "/");
+	while (filename.startswith("./")):
+		filename = filename[2:];
+	while (filename.endswith("/")):
+		filename = filename[:-1];
+	for i in filename.split("/"):
+		if i.startswith("."):
+			return (0);
+	files.append(filename);
+def original_files(dirname = "."):
+	files = []
+	find(
+		dirname,
+		original_files_callback,
+		files);
+	files.sort();
+	ORIGINAL_FILES = ""
+	for file in files:
+		ORIGINAL_FILES += (7 * "\t" + file + "\\\n")
+	ORIGINAL_FILES = ORIGINAL_FILES[:-2].strip();
+	makefile_content = open("Makefile", "r").read();
+	p = "# ORIGINAL_FILES #"
+	s = makefile_content.split(p)
+	s = s[0] + p + "\nORIGINAL_FILES\t\t\t=\t" + ORIGINAL_FILES + "\n" + p + "\n" + s[2]
+	with open("Makefile", "w") as fp:
+		fp.write(s)
+
 def main(argc, argv):
 	find(
 		".",
 		generate_readme_exercise,
 		None);
-	generate_main_readme()
+	original_files();
+	generate_main_readme();
 
 if (__name__ == '__main__'):
 	main(len(sys.argv), sys.argv)
