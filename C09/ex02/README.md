@@ -1,4 +1,8 @@
-# Subject :
+# Exercice 02:
+	• Turn-in directory : ex02/
+	• Files to turn in  : ft_split.c
+	• Allowed functions : malloc
+# Subject:
 	Create a function that splits a string of character depending on another
 		string of characters.
 	• You’ll have to use each character from the string charset as a separator.
@@ -11,7 +15,7 @@
 	• Here’s how it should be prototyped :
 		char **ft_split(char *str, char *charset);
 
-# Algorithm :
+# Algorithm:
 	[Begin]
 	• If `str` contains only separators, returns an empty array.
 	• Removes separators from both ends of a `str`.

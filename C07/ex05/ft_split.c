@@ -11,9 +11,12 @@
 /* ************************************************************************** */
 
 /*
-[Abdelmathin Habachi]
-[Subject]
-	Create a function that splits a string of character depending on another
+# Exercice 05:
+	• Turn-in directory : ex05/
+	• Files to turn in  : ft_split.c
+	• Allowed functions : malloc
+# Subject:
+	• Create a function that splits a string of character depending on another
 		string of characters.
 	• You’ll have to use each character from the string charset as a separator.
 	• The function returns an array where each element of the array contains
@@ -24,8 +27,7 @@
 	• The string given as argument won’t be modifiable.
 	• Here’s how it should be prototyped :
 		char **ft_split(char *str, char *charset);
-
-[Algorithm]
+# Algorithm:
 	[Begin]
 	• If `str` contains only separators, returns an empty array.
 	• Removes separators from both ends of a `str`.
