@@ -12,6 +12,7 @@ You don’t have to know how to code to apply to the Piscine at 42. Whatever you
 
 # Contents
 
+
 * Day 00
 
 $~~~~~~~~$[C Piscine C00 Exercise 00 : ft_putchar](https://github.com/Abdelmathin/42piscine-c/tree/main/C00/ex00)
@@ -32,7 +33,8 @@ $~~~~~~~~$[C Piscine C00 Exercise 07 : ft_putnbr](https://github.com/Abdelmathin
 
 $~~~~~~~~$[C Piscine C00 Exercise 08 : ft_print_combn](https://github.com/Abdelmathin/42piscine-c/tree/main/C00/ex08)
 
-* Day 00
+
+* Day 01
 
 $~~~~~~~~$[C Piscine C01 Exercise 00 : ft_ft](https://github.com/Abdelmathin/42piscine-c/tree/main/C01/ex00)
 
@@ -52,7 +54,8 @@ $~~~~~~~~$[C Piscine C01 Exercise 07 : ft_rev_int_tab](https://github.com/Abdelm
 
 $~~~~~~~~$[C Piscine C01 Exercise 08 : ft_sort_int_tab](https://github.com/Abdelmathin/42piscine-c/tree/main/C01/ex08)
 
-* Day 00
+
+* Day 02
 
 $~~~~~~~~$[C Piscine C02 Exercise 00 : ft_strcpy](https://github.com/Abdelmathin/42piscine-c/tree/main/C02/ex00)
 
@@ -80,7 +83,8 @@ $~~~~~~~~$[C Piscine C02 Exercise 11 : ft_putstr_non_printable](https://github.c
 
 $~~~~~~~~$[C Piscine C02 Exercise 12 : ft_print_memory](https://github.com/Abdelmathin/42piscine-c/tree/main/C02/ex12)
 
-* Day 00
+
+* Day 03
 
 $~~~~~~~~$[C Piscine C03 Exercise 00 : ft_strcmp](https://github.com/Abdelmathin/42piscine-c/tree/main/C03/ex00)
 
@@ -94,6 +98,9 @@ $~~~~~~~~$[C Piscine C03 Exercise 04 : ft_strstr](https://github.com/Abdelmathin
 
 $~~~~~~~~$[C Piscine C03 Exercise 05 : ft_strlcat](https://github.com/Abdelmathin/42piscine-c/tree/main/C03/ex05)
 
+
+* Day 04
+
 $~~~~~~~~$[C Piscine C04 Exercise 00 : ft_strlen](https://github.com/Abdelmathin/42piscine-c/tree/main/C04/ex00)
 
 $~~~~~~~~$[C Piscine C04 Exercise 01 : ft_putstr](https://github.com/Abdelmathin/42piscine-c/tree/main/C04/ex01)
@@ -106,7 +113,8 @@ $~~~~~~~~$[C Piscine C04 Exercise 04 : ft_putnbr_base](https://github.com/Abdelm
 
 $~~~~~~~~$[C Piscine C04 Exercise 05 : ft_atoi_base](https://github.com/Abdelmathin/42piscine-c/tree/main/C04/ex05)
 
-* Day 00
+
+* Day 05
 
 $~~~~~~~~$[C Piscine C05 Exercise 00 : ft_iterative_factorial](https://github.com/Abdelmathin/42piscine-c/tree/main/C05/ex00)
 
@@ -126,7 +134,8 @@ $~~~~~~~~$[C Piscine C05 Exercise 07 : ft_find_next_prime](https://github.com/Ab
 
 $~~~~~~~~$[C Piscine C05 Exercise 08 : ft_ten_queens_puzzle](https://github.com/Abdelmathin/42piscine-c/tree/main/C05/ex08)
 
-* Day 00
+
+* Day 06
 
 $~~~~~~~~$[C Piscine C06 Exercise 00 : ft_print_program_name](https://github.com/Abdelmathin/42piscine-c/tree/main/C06/ex00)
 
@@ -136,7 +145,8 @@ $~~~~~~~~$[C Piscine C06 Exercise 02 : ft_rev_params](https://github.com/Abdelma
 
 $~~~~~~~~$[C Piscine C06 Exercise 03 : ft_sort_params](https://github.com/Abdelmathin/42piscine-c/tree/main/C06/ex03)
 
-* Day 00
+
+* Day 07
 
 $~~~~~~~~$[C Piscine C07 Exercise 00 : ft_strdup](https://github.com/Abdelmathin/42piscine-c/tree/main/C07/ex00)
 
@@ -146,26 +156,21 @@ $~~~~~~~~$[C Piscine C07 Exercise 02 : ft_ultimate_range](https://github.com/Abd
 
 $~~~~~~~~$[C Piscine C07 Exercise 03 : ft_strjoin](https://github.com/Abdelmathin/42piscine-c/tree/main/C07/ex03)
 
-$~~~~~~~~$[C Piscine C07 Exercise 04 : ft_convert_base](https://github.com/Abdelmathin/42piscine-c/tree/main/C07/ex04)
-
 $~~~~~~~~$[C Piscine C07 Exercise 04 : ft_convert_base2](https://github.com/Abdelmathin/42piscine-c/tree/main/C07/ex04)
 
 $~~~~~~~~$[C Piscine C07 Exercise 05 : ft_split](https://github.com/Abdelmathin/42piscine-c/tree/main/C07/ex05)
+
+
+* Day 08
 
 $~~~~~~~~$[C Piscine C08 Exercise 04 : ft_strs_to_tab](https://github.com/Abdelmathin/42piscine-c/tree/main/C08/ex04)
 
 $~~~~~~~~$[C Piscine C08 Exercise 05 : ft_show_tab](https://github.com/Abdelmathin/42piscine-c/tree/main/C08/ex05)
 
-$~~~~~~~~$[C Piscine C09 Exercise 00 : ft_putchar](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex00)
 
-$~~~~~~~~$[C Piscine C09 Exercise 00 : ft_putstr](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex00)
-
-$~~~~~~~~$[C Piscine C09 Exercise 00 : ft_strcmp](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex00)
-
-$~~~~~~~~$[C Piscine C09 Exercise 00 : ft_strlen](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex00)
+* Day 09
 
 $~~~~~~~~$[C Piscine C09 Exercise 00 : ft_swap](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex00)
 
 $~~~~~~~~$[C Piscine C09 Exercise 02 : ft_split](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex02)
 
-[Finished in 44ms]
