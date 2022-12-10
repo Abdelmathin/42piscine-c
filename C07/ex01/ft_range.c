@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_range.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/25 16:29:41 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/25 16:29:43 by ahabachi         ###   ########.fr       */

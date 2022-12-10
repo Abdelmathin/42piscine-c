@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sort_int_tab.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/21 12:06:55 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/21 12:22:17 by ahabachi         ###   ########.fr       */

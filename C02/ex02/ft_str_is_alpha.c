@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_str_is_alpha.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/23 13:02:10 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/23 13:02:12 by ahabachi         ###   ########.fr       */

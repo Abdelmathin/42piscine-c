@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_program_name.c                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/22 22:19:07 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/22 22:25:25 by ahabachi         ###   ########.fr       */

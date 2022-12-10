@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/21 11:51:18 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/21 11:53:40 by ahabachi         ###   ########.fr       */
@@ -15,5 +15,5 @@
 void	ft_putstr(char *str)
 {
 	while (*str)
-		str += write(1, str, 1);
+		write(1, str++, 1);
 }

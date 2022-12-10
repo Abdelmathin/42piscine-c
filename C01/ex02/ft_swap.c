@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_swap.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/21 11:24:09 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/21 11:25:14 by ahabachi         ###   ########.fr       */
@@ -12,9 +12,7 @@
 
 void	ft_swap(int *a, int *b)
 {
-	int	c;
-
-	c = *a;
-	*a = *b;
-	*b = c;
+	*a = *a + *b;
+	*b = *a - *b;
+	*a = *a - *b;
 }

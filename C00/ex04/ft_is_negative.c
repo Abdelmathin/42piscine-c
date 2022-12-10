@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_is_negative.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahabachi <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: ahabachi <abdelmathinhabachi@gmail.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/20 10:34:13 by ahabachi          #+#    #+#             */
 /*   Updated: 2022/07/20 19:45:26 by ahabachi         ###   ########.fr       */
@@ -14,8 +14,5 @@
 
 void	ft_is_negative(int n)
 {
-	if (n < 0)
-		write(1, "N", 1);
-	else
-		write(1, "P", 1);
+	write(1, "NP" + (n >= 0), 1);
 }
