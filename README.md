@@ -32,6 +32,8 @@ $~~~~~~~~$[C Piscine C00 Exercise 07 : ft_putnbr](https://github.com/Abdelmathin
 
 $~~~~~~~~$[C Piscine C00 Exercise 08 : ft_print_combn](https://github.com/Abdelmathin/42piscine-c/tree/main/C00/ex08)
 
+* Day 00
+
 $~~~~~~~~$[C Piscine C01 Exercise 00 : ft_ft](https://github.com/Abdelmathin/42piscine-c/tree/main/C01/ex00)
 
 $~~~~~~~~$[C Piscine C01 Exercise 01 : ft_ultimate_ft](https://github.com/Abdelmathin/42piscine-c/tree/main/C01/ex01)
@@ -49,6 +51,8 @@ $~~~~~~~~$[C Piscine C01 Exercise 06 : ft_strlen](https://github.com/Abdelmathin
 $~~~~~~~~$[C Piscine C01 Exercise 07 : ft_rev_int_tab](https://github.com/Abdelmathin/42piscine-c/tree/main/C01/ex07)
 
 $~~~~~~~~$[C Piscine C01 Exercise 08 : ft_sort_int_tab](https://github.com/Abdelmathin/42piscine-c/tree/main/C01/ex08)
+
+* Day 00
 
 $~~~~~~~~$[C Piscine C02 Exercise 00 : ft_strcpy](https://github.com/Abdelmathin/42piscine-c/tree/main/C02/ex00)
 
@@ -76,6 +80,8 @@ $~~~~~~~~$[C Piscine C02 Exercise 11 : ft_putstr_non_printable](https://github.c
 
 $~~~~~~~~$[C Piscine C02 Exercise 12 : ft_print_memory](https://github.com/Abdelmathin/42piscine-c/tree/main/C02/ex12)
 
+* Day 00
+
 $~~~~~~~~$[C Piscine C03 Exercise 00 : ft_strcmp](https://github.com/Abdelmathin/42piscine-c/tree/main/C03/ex00)
 
 $~~~~~~~~$[C Piscine C03 Exercise 01 : ft_strncmp](https://github.com/Abdelmathin/42piscine-c/tree/main/C03/ex01)
@@ -100,6 +106,8 @@ $~~~~~~~~$[C Piscine C04 Exercise 04 : ft_putnbr_base](https://github.com/Abdelm
 
 $~~~~~~~~$[C Piscine C04 Exercise 05 : ft_atoi_base](https://github.com/Abdelmathin/42piscine-c/tree/main/C04/ex05)
 
+* Day 00
+
 $~~~~~~~~$[C Piscine C05 Exercise 00 : ft_iterative_factorial](https://github.com/Abdelmathin/42piscine-c/tree/main/C05/ex00)
 
 $~~~~~~~~$[C Piscine C05 Exercise 01 : ft_recursive_factorial](https://github.com/Abdelmathin/42piscine-c/tree/main/C05/ex01)
@@ -118,6 +126,8 @@ $~~~~~~~~$[C Piscine C05 Exercise 07 : ft_find_next_prime](https://github.com/Ab
 
 $~~~~~~~~$[C Piscine C05 Exercise 08 : ft_ten_queens_puzzle](https://github.com/Abdelmathin/42piscine-c/tree/main/C05/ex08)
 
+* Day 00
+
 $~~~~~~~~$[C Piscine C06 Exercise 00 : ft_print_program_name](https://github.com/Abdelmathin/42piscine-c/tree/main/C06/ex00)
 
 $~~~~~~~~$[C Piscine C06 Exercise 01 : ft_print_params](https://github.com/Abdelmathin/42piscine-c/tree/main/C06/ex01)
@@ -125,6 +135,8 @@ $~~~~~~~~$[C Piscine C06 Exercise 01 : ft_print_params](https://github.com/Abdel
 $~~~~~~~~$[C Piscine C06 Exercise 02 : ft_rev_params](https://github.com/Abdelmathin/42piscine-c/tree/main/C06/ex02)
 
 $~~~~~~~~$[C Piscine C06 Exercise 03 : ft_sort_params](https://github.com/Abdelmathin/42piscine-c/tree/main/C06/ex03)
+
+* Day 00
 
 $~~~~~~~~$[C Piscine C07 Exercise 00 : ft_strdup](https://github.com/Abdelmathin/42piscine-c/tree/main/C07/ex00)
 
