@@ -13,5 +13,5 @@ You don’t have to know how to code to apply to the Piscine at 42. Whatever you
 # Contents
 * C Piscine C02
 
-[Exercise 00](https://www.google.com](https://github.com/Abdelmathin/42piscine-c/tree/main/C02/ex00)
+[Exercise 00](https://github.com/Abdelmathin/42piscine-c/tree/main/C02/ex00)
 
