@@ -1,4 +1,4 @@
-# Exercice 07:
+# Exercise 07:
 	• Turn-in directory : ex07/
 	• Files to turn in  : ft_rev_int_tab.c
 	• Allowed functions : None

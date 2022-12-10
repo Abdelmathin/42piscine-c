@@ -2,7 +2,7 @@
 	• Turn-in directory : ex05/
 	• Files to turn in  : ft_print_comb.c
 	• Allowed functions : write
-# Subject :
+# Subject:
 	• Create a function that displays all different combinations of three
 		different digits in ascending order, listed by ascending order - yes,
 		repetition is voluntary.

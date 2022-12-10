@@ -2,7 +2,7 @@
 	• Turn-in directory : ex07/
 	• Files to turn in  : ft_putnbr.c
 	• Allowed functions : write
-# Subject :
+# Subject:
 	• Create a function that displays the number entered as a parameter.
 		The function has to be able to display all possible values within
 		an int type variable.

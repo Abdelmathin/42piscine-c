@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 11:
+# Exercise 11:
 	• Turn-in directory : ex11/
 	• Files to turn in  : ft_putstr_non_printable.c
 	• Allowed functions : write

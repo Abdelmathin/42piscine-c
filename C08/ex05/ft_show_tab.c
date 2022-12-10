@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 05:
+# Exercise 05:
 	• Turn-in directory : ex05/
 	• Files to turn in  : ft_strs_to_tab.c
 	• Allowed functions : malloc, free

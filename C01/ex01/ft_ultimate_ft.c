@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 01:
+# Exercise 01:
 	• Turn-in directory : ex01/
 	• Files to turn in  : ft_ultimate_ft.c
 	• Allowed functions : None

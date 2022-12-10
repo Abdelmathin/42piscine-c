@@ -1,4 +1,4 @@
-# Exercice 02:
+# Exercise 02:
 	• Turn-in directory : ex02/
 	• Files to turn in  : ft_split.c
 	• Allowed functions : malloc
@@ -14,7 +14,6 @@
 	• The string given as argument won’t be modifiable.
 	• Here’s how it should be prototyped :
 		char **ft_split(char *str, char *charset);
-
 # Algorithm:
 	[Begin]
 	• If `str` contains only separators, returns an empty array.

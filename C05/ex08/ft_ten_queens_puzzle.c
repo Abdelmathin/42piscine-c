@@ -11,12 +11,11 @@
 /* ************************************************************************** */
 
 /*
-[Abdelmathin Habachi]
-[Exercise 08]
+# Exercise 08:
 	• Turn-in directory : ex08/
 	• Files to turn in  : ft_ten_queens_puzzle.c
 	• Allowed functions : write
-[Subject]
+# Subject:
 	• Create a function that displays all possible placements of the ten queens
 		on a chessboard which would contain ten columns and ten lines, without
 		them being able to reach each other in a single move, and returns the

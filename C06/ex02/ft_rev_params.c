@@ -11,13 +11,11 @@
 /* ************************************************************************** */
 
 /*
-[By]
-	Abdelmathin Habachi
-[C06-Exercise 02]
+# Exercise 02:
 	• Turn-in directory : ex02/
 	• Files to turn in  : ft_rev_params.c
 	• Allowed functions : write
-[SUBJECT]
+# Subject:
 	• We’re dealing with a program here, you should therefore have a function
 		main in your .c file.
 	• Create a program that displays its given arguments.

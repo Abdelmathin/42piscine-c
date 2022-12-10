@@ -1,4 +1,4 @@
-# Exercice 00:
+# Exercise 00:
 	• Turn-in directory : ex00/
 	• Files to turn in  : ft_strcpy.c
 	• Allowed functions : None

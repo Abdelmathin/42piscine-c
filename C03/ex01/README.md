@@ -1,4 +1,4 @@
-# Exercice 01:
+# Exercise 01:
 	• Turn-in directory : ex01/
 	• Files to turn in  : ft_strncmp.c
 	• Allowed functions : None

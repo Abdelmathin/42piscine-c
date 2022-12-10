@@ -1,4 +1,4 @@
-# Exercice 05:
+# Exercise 05:
 	• Turn-in directory : ex05/
 	• Files to turn in  : ft_str_is_uppercase.c
 	• Allowed functions : None

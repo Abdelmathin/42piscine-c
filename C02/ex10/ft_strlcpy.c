@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 10:
+# Exercise 10:
 	• Turn-in directory : ex10/
 	• Files to turn in  : ft_strlcpy.c
 	• Allowed functions : None

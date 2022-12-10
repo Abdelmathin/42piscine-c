@@ -1,4 +1,4 @@
-# Exercice 00:
+# Exercise 00:
 	• Turn-in directory : ex00/
 	• Files to turn in  : libft_creator.sh, ft_putchar.c, ft_swap.c,
 						  ft_putstr.c, ft_strlen.c, ft_strcmp.c

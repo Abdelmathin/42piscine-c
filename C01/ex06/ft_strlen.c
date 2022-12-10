@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 06:
+# Exercise 06:
 	• Turn-in directory : ex06/
 	• Files to turn in  : ft_strlen.c
 	• Allowed functions : None

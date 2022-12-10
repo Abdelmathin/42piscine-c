@@ -1,3 +1,4 @@
+
 # 42piscine-c
 In one month, the Pool of 42 allows you to discover all the learning methods of the training: learning between peers, group work, evaluation by peers or pedagogy by project. Diving into the work methods of 42 students.
 
@@ -11,7 +12,6 @@ You don’t have to know how to code to apply to the Piscine at 42. Whatever you
 ![Maximum level](ScreenShot.png)
 
 # Contents
-
 
 * Day 00:
 
@@ -183,4 +183,5 @@ $~~~~~~~~$[C Piscine C09 Exercise 00 : libft_creator](https://github.com/Abdelma
 $~~~~~~~~$[C Piscine C09 Exercise 01 : Makefile](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex01)
 
 $~~~~~~~~$[C Piscine C09 Exercise 02 : ft_split](https://github.com/Abdelmathin/42piscine-c/tree/main/C09/ex02)
+
 

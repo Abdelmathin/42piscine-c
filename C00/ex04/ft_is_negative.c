@@ -11,12 +11,11 @@
 /* ************************************************************************** */
 
 /*
-[Abdelmathin Habachi]
-[Exercise 04]
+# Exercise 04:
 	• Turn-in directory : ex04/
 	• Files to turn in  : ft_print_numbers.c
 	• Allowed functions : write
-[Subject]
+# Subject:
 	• Create a function that displays ’N’ or ’P’ depending on the integer’s sign
 		entered parameter.
 		• If n is negative, display ’N’.

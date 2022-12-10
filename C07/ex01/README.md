@@ -1,4 +1,4 @@
-# Exercice 01:
+# Exercise 01:
 	• Turn-in directory : ex01/
 	• Files to turn in  : ft_range.c
 	• Allowed functions : malloc

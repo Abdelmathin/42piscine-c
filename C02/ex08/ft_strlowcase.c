@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 08:
+# Exercise 08:
 	• Turn-in directory : ex08/
 	• Files to turn in  : ft_strlowcase.c
 	• Allowed functions : None

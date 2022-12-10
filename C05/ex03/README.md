@@ -2,7 +2,7 @@
 	• Turn-in directory : ex03/
 	• Files to turn in  : ft_recursive_power.c
 	• Allowed functions : None
-# Subject :
+# Subject:
 	• Create a recursive function that returns the value of a power applied
 		to a number.
 	• Overflows must not be handled, the function return will be undefined.

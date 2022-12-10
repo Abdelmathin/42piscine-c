@@ -1,4 +1,4 @@
-# Exercice 04:
+# Exercise 04:
 	• Turn-in directory : ex04/
 	• Files to turn in  : ft_convert_base.c, ft_convert_base2.c
 	• Allowed functions : malloc, free

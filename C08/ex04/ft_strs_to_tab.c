@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 04:
+# Exercise 04:
 	• Turn-in directory : ex04/
 	• Files to turn in  : ft_strs_to_tab.c
 	• Allowed functions : malloc, free
@@ -23,7 +23,6 @@
 	• It will transform each element of av into a structure.
 	• The structure will be defined in the ft_stock_str.h file that we will
 		provided, like this:
-
 		typedef struct s_stock_str
 		{
 			int size;

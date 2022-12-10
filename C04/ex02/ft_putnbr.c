@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 02:
+# Exercise 02:
 	• Turn-in directory : ex02/
 	• Files to turn in  : ft_putnbr.c
 	• Allowed functions : write

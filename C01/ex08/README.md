@@ -1,4 +1,4 @@
-# Exercice 08:
+# Exercise 08:
 	• Turn-in directory : ex08/
 	• Files to turn in  : ft_sort_int_tab.c
 	• Allowed functions : None

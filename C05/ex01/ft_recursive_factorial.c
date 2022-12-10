@@ -11,12 +11,11 @@
 /* ************************************************************************** */
 
 /*
-[Abdelmathin Habachi]
-[Exercise 01]
+# Exercise 01:
 	• Turn-in directory : ex01/
 	• Files to turn in  : ft_recursive_factorial.c
 	• Allowed functions : None
-[Subject]
+# Subject:
 	• Create a recursive function that returns the factorial of the number
 		given as a parameter.
 	• If the argument is not valid the function should return 0.

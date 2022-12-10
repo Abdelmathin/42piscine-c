@@ -1,9 +1,10 @@
-# Exercice 03:
+# Exercise 03:
 	• Turn-in directory : ex03/
 	• Files to turn in  : ft_atoi.c
 	• Allowed functions : None
 # Subject:
 	• Write a function that converts the initial portion of the string pointed
+		by str to its int representation
 	• The string can start with an arbitray amount of white space
 		(as determined by isspace(3))
 	• The string can be followed by an arbitrary amount of + and - signs,

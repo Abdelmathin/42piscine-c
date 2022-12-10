@@ -1,8 +1,8 @@
-[C06-Exercise 03]
+# Exercise 03:
 	• Turn-in directory : ex03/
 	• Files to turn in  : ft_sort_params.c
 	• Allowed functions : write
-# Subject :
+# Subject:
 	• We’re dealing with a program here, you should therefore have a function
 		main in your .c file.
 	• Create a program that displays its given arguments sorted by ascii order.

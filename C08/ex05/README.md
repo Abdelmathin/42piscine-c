@@ -1,4 +1,4 @@
-# Exercice 05:
+# Exercise 05:
 	• Turn-in directory : ex05/
 	• Files to turn in  : ft_strs_to_tab.c
 	• Allowed functions : malloc, free
@@ -13,5 +13,6 @@
 		• the string followed by a ’\n’
 		• the size followed by a ’\n’
 		• the copy of the string (that could have been modified) followed
+			by a ’\n’
 	• We’ll test your function with our ft_strs_to_tab (previous exercise).
 		Make it work according to this !

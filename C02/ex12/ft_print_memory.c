@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 /*
-# Exercice 12:
+# Exercise 12:
 	• Turn-in directory : ex12/
 	• Files to turn in  : ft_print_memory.c
 	• Allowed functions : write

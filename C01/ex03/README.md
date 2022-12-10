@@ -1,4 +1,4 @@
-# Exercice 03:
+# Exercise 03:
 	• Turn-in directory : ex03/
 	• Files to turn in  : ft_div_mod.c
 	• Allowed functions : None
